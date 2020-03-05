@@ -1,0 +1,31 @@
+_repo: The-Political-Songs-of-England-From-the-Reign-of-John-to-That-of-Edward-II_61511
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Wright, Thomas
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '40435'
+    url: http://www.gutenberg.org/2009/agents/40435
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Wright_(antiquarian)
+description: ''
+gutenberg_issued: '2020-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political ballads and songs -- Great Britain -- Texts'
+- !lcsh 'Latin poetry, Medieval and modern -- England -- Translations into English'
+- !lcc 'PA'
+- !lcsh 'Political poetry, Latin (Medieval and modern) -- Translations into English'
+- !lcsh 'Great Britain -- Politics and government -- 1066-1485 -- Sources'
+- !lcsh 'Political poetry, English (Middle)'
+- !lcsh 'Anglo-Norman poetry -- Translations into English'
+- !lcsh 'English poetry -- Middle English, 1100-1500'
+- GITenberg
+title: 'The Political Songs of England: From the Reign of John to That of Edward II'
+url: http://www.gutenberg.org/ebooks/61511
